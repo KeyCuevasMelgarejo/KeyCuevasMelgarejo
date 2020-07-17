@@ -11,11 +11,11 @@ As someone who is always passionate for learning more about tech and life. Saiem
   `JavaScript / TypeScript`,`Angular`,`VueJS`,`Node / Express`,`Spring MVC`,`Java`,`Visual C++`,`Visual C#`,`Visual Basic`.
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
 
-Puedes escribirme al inbox para cualquier consulta...
-
-[![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
-
 >Estadisticas
 
 [![KeyCuevasMelgarejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyCuevasMelgarejo&show_icons=true)](https://github.com/KeyCuevasMelgarejo)
+
+Puedes escribirme al inbox para cualquier consulta...
+
+[![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
