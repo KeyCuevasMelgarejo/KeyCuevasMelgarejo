@@ -8,7 +8,6 @@ As someone who is always passionate for learning more about tech and life. Saiem
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
-  <br >
   `JavaScript / TypeScript`,`Angular`,`VueJS`,`Node / Express`,`Spring MVC`,`Java`,`Visual C++`,`Visual C#`,`Visual Basic`.
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
 
