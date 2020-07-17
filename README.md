@@ -10,10 +10,10 @@ As someone who is always passionate for learning more about tech and life. Saiem
 
   * 🔭 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company.
-  * 💬 &nbsp; People ask him about `JavaScript / TypeScript, React, Redux, Node / Express, Firebase, MongoDB, etc`.
+  * 💬 &nbsp; Cualquiera puede hacerme consultas acerca de `JavaScript / TypeScript, Angular, Node / Express, Spring MVC, Java, Visual C++, Visual C#, Visual Basic`.
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
 
 <br />
 Puedes escribirme al inbox para cualquier consulta...
 
-[![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo//)
+[![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
