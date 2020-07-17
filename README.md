@@ -4,7 +4,7 @@
 
 >Programador Full Stack
 
-As someone who is always passionate for learning more about tech and life. Saiem Saeed grew up developing web scripts static websites and ever since he's a self taught web developer. From those humble beginnings, he has evolved into a Full Stack Engineer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ ! 
+Soy un programador especializado en el desarrollo de aplicaciones web y escritorio, pero tambien tengo conocimiento técnico sobre el desarrollo de app mobiles. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo agil, utilizando diversas herramientas, frameworks, librerias; tanto por el lado frontend y como backend.
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
