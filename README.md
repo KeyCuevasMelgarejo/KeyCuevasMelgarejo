@@ -10,6 +10,7 @@ As someone who is always passionate for learning more about tech and life. Saiem
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
   `JavaScript / TypeScript`, `Angular`, `VueJS`, `Node / Express`, `Spring MVC`, `Java`, `Visual C++`, `Visual C#`, `Visual Basic`.
+<br >
 
 >Estadisticas
 
