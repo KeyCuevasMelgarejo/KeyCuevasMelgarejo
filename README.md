@@ -1,5 +1,6 @@
 <!--
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)
 # Key Cuevas Melgarejo [![HitCount](http://hits.dwyl.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo.svg)](http://hits.dwyl.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo)
 
 >Programador Full Stack
@@ -14,3 +15,5 @@ As someone who is always passionate for learning more about tech and life. Saiem
 Puedes escribirme al inbox para cualquier consulta...
 
 [![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
+
+[![KeyCuevasMelgarejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyCuevasMelgarejo&show_icons=true)](https://github.com/KeyCuevasMelgarejo)
