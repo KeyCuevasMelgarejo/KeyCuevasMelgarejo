@@ -9,7 +9,7 @@ Soy un programador especializado en el desarrollo de aplicaciones web y escritor
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
-  `JavaScript / TypeScript`, `Angular`, `VueJS`, `Node / Express`, `Spring MVC`, `Java`, `Visual C++`, `Visual C#`, `Visual Basic`.
+  `JavaScript / TypeScript`, `Angular`, `VueJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `Visual C++`, `Visual C#`, `Visual Basic`.
 <br >
 
 >Estadisticas
