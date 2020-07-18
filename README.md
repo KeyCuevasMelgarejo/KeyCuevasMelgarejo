@@ -4,7 +4,7 @@
 
 >Programador Full Stack
 
-Soy un programador especializado en el desarrollo de aplicaciones web y escritorio, con conocimiento técnico sobre el desarrollo de apps móviles. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo ágil, utilizando diversas herramientas, frameworks y librerias, tanto por el lado frontend y como backend.
+Soy un desarrollador especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento técnico sobre el desarrollo de apps móviles. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo ágil, utilizando diversas herramientas, frameworks y librerias, tanto por el lado frontend y como backend.
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
