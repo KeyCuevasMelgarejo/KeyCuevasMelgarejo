@@ -9,7 +9,7 @@ Soy un desarrollador especializado en la construcción y mantenimiento de aplica
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
-  `JavaScript / TypeScript`, `Angular`, `VueJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`.
+  `JavaScript / TypeScript`, `Angular`, `VueJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`.
 <br >
 
 >Estadisticas
