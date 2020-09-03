@@ -7,9 +7,9 @@
 Soy un desarrollador especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento técnico sobre el desarrollo de apps móviles. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo ágil, utilizando diversas herramientas, frameworks y librerias, tanto por el lado frontend y como backend.
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico
-  * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `VueJS`
+  * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `ReactJS`
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
-  `JavaScript / TypeScript`, `Angular`, `VueJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`.
+  `JavaScript / TypeScript`, `Angular`, `ReactJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`.
 <br >
 
 >Estadisticas
