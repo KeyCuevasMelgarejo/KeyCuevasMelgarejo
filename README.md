@@ -20,5 +20,4 @@ Soy un desarrollador especializado en la construcción y mantenimiento de aplica
 Puedes escribirme al inbox para cualquier consulta...
 
 [![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.facebook.com%2Fkey.cuevasmelgarejo%2F)
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
