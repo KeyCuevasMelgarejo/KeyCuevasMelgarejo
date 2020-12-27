@@ -3,7 +3,7 @@
 # Key Cuevas Melgarejo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FKeyCuevasMelgarejo)
 >Programador Full Stack
 
-Soy un desarrollador especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento en el desarrollo de apps móviles para android. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo ágil, utilizando diversas herramientas, frameworks y librerias, tanto por el lado frontend y como backend.
+Bach. en Ingenieria de Sistemas Computacionales especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento en el desarrollo de apps móviles para android. Me apasiona mucho aprender acerca de tecnologias emergentes. Comencé desarrollando aplicaciones de escritorio y contenido web estático. Desde entonces, he ido desarrollando mis habilidades como un Full Stack Developer que abraza tecnologias de desarrollo ágil, utilizando diversas herramientas, frameworks y librerias, tanto por el lado frontend y como backend.
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico; además de **una app móvil**     para la identificacion de tipo de maderas haciendo uso de machine learning
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `ReactJS`
