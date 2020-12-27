@@ -22,7 +22,7 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
 (https://soundcloud.com/key-cuevas-melgarejo)
 
 >Contáctame en Facebook
-(Puedes escribirme al inbox para cualquier consulta...)
+(Puedes escribirme al inbox para cualquier consulta)
 
 [![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
