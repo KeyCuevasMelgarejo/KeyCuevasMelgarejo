@@ -12,7 +12,7 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
 <br >
 
 >Gists
-![](https://gist.github.com/KeyCuevasMelgarejo)
+(https://gist.github.com/KeyCuevasMelgarejo)
 
 >Estadisticas
 
