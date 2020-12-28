@@ -11,10 +11,6 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
   `JavaScript / TypeScript`, `Angular`, `ReactJS`, `Thymeleaf`, `Node / Express`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`.
 <br >
 
->Estadisticas
-
-[![KeyCuevasMelgarejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyCuevasMelgarejo&show_icons=true)](https://github.com/KeyCuevasMelgarejo)
-
 >Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
 
@@ -26,3 +22,7 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
 
 [![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
+
+>Estadisticas
+
+[![KeyCuevasMelgarejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyCuevasMelgarejo&show_icons=true)](https://github.com/KeyCuevasMelgarejo)
