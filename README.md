@@ -22,7 +22,3 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
 
 [![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
-
->Estadisticas
-
-[![KeyCuevasMelgarejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyCuevasMelgarejo&show_icons=true)](https://github.com/KeyCuevasMelgarejo)
