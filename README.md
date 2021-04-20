@@ -17,6 +17,9 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
 >SoundCloud
 (https://soundcloud.com/key-cuevas-melgarejo)
 
+>Researches
+(https://www.researchgate.net/profile/Key-Cuevas-Melgarejo)
+
 >Contáctame en Facebook
 (Puedes escribirme al inbox para cualquier consulta)
 
