@@ -11,14 +11,14 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
   `JavaScript / TypeScript`, `Angular`, `ReactJS`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br >
 
->Gists
-(https://gist.github.com/KeyCuevasMelgarejo)
-
 >SoundCloud
 (https://soundcloud.com/key-cuevas-melgarejo)
 
 >Researches
 (https://www.researchgate.net/profile/Key-Cuevas-Melgarejo)
+
+>Gists
+(https://gist.github.com/KeyCuevasMelgarejo)
 
 >Contáctame en Facebook
 (Puedes escribirme al inbox para cualquier consulta)
