@@ -8,7 +8,7 @@ Bach. en Ingenieria de Sistemas Computacionales especializado en la construcció
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico; además de **una app móvil**     para la identificacion de tipo de maderas haciendo uso de machine learning
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`
   * 💬 &nbsp; Sientete libre de consultarme acerca de:
-  `JavaScript / TypeScript`, `Angular`, `ReactJS`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
+  `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br >
 
 >SoundCloud
