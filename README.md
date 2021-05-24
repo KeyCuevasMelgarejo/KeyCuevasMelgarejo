@@ -22,6 +22,6 @@
 (Puedes escribirme para cualquier consulta)
 
 <a href="https://www.researchgate.net/profile/Key-Cuevas-Melgarejo"><img alt="Researchgate" title="Mis Investigaciones" src="https://shields.io/badge/-Researches-00ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white"></a>
-<a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
+<a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
