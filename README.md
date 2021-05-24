@@ -2,7 +2,6 @@
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Key Cuevas Melgarejo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FKeyCuevasMelgarejo)
 >Programador Full Stack
-[![visits](https://github-visit-counter.herokuapp.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/visits.svg)](#)
 
 Bach. en Ingenieria de Sistemas Computacionales especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento en el desarrollo de apps móviles para android.
 
