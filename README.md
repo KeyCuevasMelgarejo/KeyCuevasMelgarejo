@@ -15,7 +15,7 @@
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br >
 
->SoundCloud
+>SoundCloud <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
 (https://soundcloud.com/key-cuevas-melgarejo)
 
 >Researches
