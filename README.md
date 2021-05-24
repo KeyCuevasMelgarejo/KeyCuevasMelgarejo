@@ -15,11 +15,6 @@
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br >
 
->
-><a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-
-(https://soundcloud.com/key-cuevas-melgarejo)
-
 >Researches
 (https://www.researchgate.net/profile/Key-Cuevas-Melgarejo)
 
@@ -29,5 +24,6 @@
 >Contáctame
 (Puedes escribirme para cualquier consulta)
 
-<a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Key Cuevas Melgarejo Facebook" src="https://shields.io/badge/-Facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
