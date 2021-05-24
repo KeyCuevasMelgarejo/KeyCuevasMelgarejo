@@ -24,8 +24,8 @@
 >Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
 
->Contáctame en Facebook
-(Puedes escribirme al inbox para cualquier consulta)
+>Contáctame
+(Puedes escribirme para cualquier consulta)
 
-[![Facebook](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/facebook-icon.png)](https://www.facebook.com/key.cuevasmelgarejo/)
+<a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Key Cuevas Melgarejo Facebook" src="https://shields.io/badge/-Facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
