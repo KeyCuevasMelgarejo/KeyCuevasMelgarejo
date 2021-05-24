@@ -1,10 +1,8 @@
 <!--
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# 
+# <p align="center">Key Cuevas Melgarejo</p>
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FKeyCuevasMelgarejo)
-<p align="center">
-  Key Cuevas Melgarejo
-</p>
+
 
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=18&lines=Bach.+en+Ingenieria+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta)](https://git.io/typing-svg"></a>
