@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&lines=Bach.+en+Ingenieria+de+Sistemas;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
 </p>
 
 Bach. en Ingenieria de Sistemas Computacionales especializado en la construcción y mantenimiento de aplicaciones web y escritorio, con conocimiento en el desarrollo de apps móviles para android.
