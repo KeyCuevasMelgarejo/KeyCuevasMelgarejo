@@ -2,12 +2,11 @@
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # <p align="center">Key Cuevas Melgarejo</p>
 <p align="center">
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+</p>
+<p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo">
     <img alt="visitas" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
 </p>
 
   * 💻 &nbsp; Actualmente estoy desarrollando **una aplicación web musical** para el trabajo colaborativo pre, intra y post escénico; además de **una app móvil**     para la identificacion de tipo de maderas haciendo uso de machine learning
