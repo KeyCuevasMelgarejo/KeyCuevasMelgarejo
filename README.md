@@ -1,10 +1,10 @@
 <!--
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # <p align="center">Key Cuevas Melgarejo</p>
-<p align="center">
-  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FKeyCuevasMelgarejo)
-  <!--<a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>-->
-</p>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FKeyCuevasMelgarejo)
+<!--<p align="center">
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+</p>-->
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo">
     <img alt="visitas" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
