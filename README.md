@@ -2,10 +2,10 @@
 **KeyCuevasMelgarejo/KeyCuevasMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # <p align="center">Key Cuevas Melgarejo</p>
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Bach.+en+Ingenieria+de+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo">
+  <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
     <img alt="visitas" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
 
