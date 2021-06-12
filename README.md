@@ -25,4 +25,5 @@
 <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Key-Cuevas-Melgarejo"><img alt="Researchgate" title="Mis Investigaciones" src="https://shields.io/badge/-Researches-00ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white"></a>
 <a href="https://ko-fi.com/keycuevasmelgarejo"><img alt="Ko-fi" title="Contribuye" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+<a href="https://discord.gg/R6maQ4W9fz"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-yellow.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <!-- ![Header](https://raw.githubusercontent.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo/master/cabecera.png)-->
