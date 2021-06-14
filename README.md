@@ -15,8 +15,7 @@
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br >
 
->Gists
-(https://gist.github.com/KeyCuevasMelgarejo)
+>[Gists](https://gist.github.com/KeyCuevasMelgarejo)
 
 >Contáctame
 (Puedes escribirme para cualquier consulta)
