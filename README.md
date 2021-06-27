@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
-    <img alt="visitas" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
+    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
 
   * 💻 &nbsp; Actualmente estoy desarrollando [**una aplicación web musical**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) para mejorar del proceso de composición musical y colaborativo en tiempo real; además de [**una app móvil**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) para la identificacion de tipo de maderas haciendo uso de machine learning.
