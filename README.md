@@ -14,7 +14,7 @@
 * &nbsp;[**Aplicación web musical**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 * &nbsp;[**App móvil**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
->🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`<br/>
+>:pill: &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`<br/>
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
@@ -24,7 +24,7 @@
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
 
->:busts_in_silhouette: &nbsp;Contáctame
+>:mailbox_with_mail: &nbsp;Contáctame
 (Puedes escribirme para cualquier consulta)
 <p align="center">
   <a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
