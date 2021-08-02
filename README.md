@@ -16,7 +16,8 @@
 
 >🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`<br/>
 
->💬 &nbsp; Sientete libre de consultarme acerca de:<br/><br/>
+>💬 &nbsp; Sientete libre de consultarme acerca de:<br/>
+
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br/><br/>
 
