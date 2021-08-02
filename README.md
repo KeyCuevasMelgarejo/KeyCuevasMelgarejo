@@ -9,9 +9,9 @@
     <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
 
-💻 &nbsp; Actualmente estoy desarrollando:
-&nbsp;[**Meca Typing**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para practicar y mejorar en la escritura con el teclado.
-&nbsp;[**Aplicación web musical**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) para mejorar del proceso de composición musical y colaborativo en tiempo real.
+💻 &nbsp; Actualmente estoy desarrollando:<br/>
+&nbsp;[**Meca Typing**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para practicar y mejorar en la escritura con el teclado.<br/>
+&nbsp;[**Aplicación web musical**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 &nbsp;[**App móvil**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) para la identificacion de tipo de maderas haciendo uso de machine learning.
 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`
 💬 &nbsp; Sientete libre de consultarme acerca de:
