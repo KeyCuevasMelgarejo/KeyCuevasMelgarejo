@@ -24,7 +24,7 @@
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
 
->Contáctame
+>:busts_in_silhouette: &nbsp;Contáctame
 (Puedes escribirme para cualquier consulta)
 <p align="center">
   <a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
