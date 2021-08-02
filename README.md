@@ -10,7 +10,7 @@
 </p>
 
   * 💻 &nbsp; Actualmente estoy desarrollando:
-   [**Meca Typing**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para que puedas practicar y mejorar tu escritura con el teclado.
+   [**Meca Typing**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para practicar y mejorar en la escritura con el teclado.
    [**Aplicación web musical**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) para mejorar del proceso de composición musical y colaborativo en tiempo real.
    [**App móvil**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) para la identificacion de tipo de maderas haciendo uso de machine learning.
   * 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`
