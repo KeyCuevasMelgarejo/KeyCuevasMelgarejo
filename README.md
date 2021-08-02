@@ -21,7 +21,7 @@
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br/><br/>
 
->Gists
+>:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
 
 >Contáctame
