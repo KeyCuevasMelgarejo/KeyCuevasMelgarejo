@@ -15,12 +15,13 @@
 * &nbsp;[**App móvil**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
 🌱 &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`<br/>
+
 💬 &nbsp; Sientete libre de consultarme acerca de:<br/>
   `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
 <br/>
 
 >Gists
-(https://gist.github.com/KeyCuevasMelgarejo)
+(`https://gist.github.com/KeyCuevasMelgarejo`)
 
 >Contáctame
 (Puedes escribirme para cualquier consulta)
