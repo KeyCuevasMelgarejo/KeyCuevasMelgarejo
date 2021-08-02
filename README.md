@@ -21,7 +21,7 @@
 <br/>
 
 >Gists
-(`https://gist.github.com/KeyCuevasMelgarejo`)
+(https://gist.github.com/KeyCuevasMelgarejo)
 
 >Contáctame
 (Puedes escribirme para cualquier consulta)
