@@ -18,7 +18,7 @@
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
-  `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA`, `ZBrush`, `Unity`.
+  `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA Macros`, `ZBrush`, `Unity`.
 <br/><br/>
 
 >:pushpin: &nbsp;Gists
