@@ -10,7 +10,7 @@
 </p>
 
 >🌱 &nbsp; Actualmente estoy desarrollando:
-* &nbsp;[**MecaTyping**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para fomentar el interés y conocimiento de las tradiciones culturales peruanas a través de la práctica mecanográfica y posterior invitación a la lectura de obras nacionales en Castellano, Quechua y Aymara.<br/>
+* &nbsp;[**MecaTyping**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para fomentar el interés y conocimiento de las tradiciones culturales peruanas en la literatura a través de la práctica mecanográfica y posterior invitación a la lectura de obras nacionales en Castellano, Quechua y Aymara.<br/>
 * &nbsp;[**MusicMe**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) aplicación web para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 * &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
