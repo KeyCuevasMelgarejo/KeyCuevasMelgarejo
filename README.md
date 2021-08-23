@@ -27,7 +27,7 @@
 >:mailbox_with_mail: &nbsp;Contáctame
 (Puedes escribirme para cualquier consulta)
 <p align="center">
-  <a href="https://www.facebook.com/key.cuevasmelgarejo/"><img alt="Facebook" title="Social" src="https://shields.io/badge/-Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://dev.to/keycuevasmelgarejo"><img alt="Dev" title="Social" src="https://shields.io/badge/-Dev.to-blue.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://discord.gg/R6maQ4W9fz"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-yellow.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://www.researchgate.net/profile/Key-Cuevas-Melgarejo"><img alt="Researchgate" title="Mis Investigaciones" src="https://shields.io/badge/-Researches-00ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white"></a>
