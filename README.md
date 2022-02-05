@@ -16,7 +16,7 @@
 
 >:pill: &nbsp;Ahora mismo estoy poniendo en practica mis conocimientos de:<br/>
  
-`Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.
+`Angular` aplicado a un proyecto privado (en desarrollo) para el Estado Peruano.
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
