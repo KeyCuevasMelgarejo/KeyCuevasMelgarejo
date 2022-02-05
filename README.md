@@ -15,7 +15,8 @@
 * &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
 >:pill: &nbsp;Ahora mismo estoy poniendo en practica mis conocimientos de:<br/>
- `Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.
+ 
+`Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
