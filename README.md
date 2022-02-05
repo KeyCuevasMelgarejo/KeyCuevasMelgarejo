@@ -14,7 +14,7 @@
 * &nbsp;[**MusicMe**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) aplicación web para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 * &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
->:pill: &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Angular`<br/>
+>:pill: &nbsp;Ahora mismo estoy poniendo en practica mis conocimientos de `Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.<br/>
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
