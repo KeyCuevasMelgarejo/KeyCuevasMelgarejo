@@ -14,11 +14,12 @@
 * &nbsp;[**MusicMe**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) aplicación web para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 * &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
 
->:pill: &nbsp;Ahora mismo estoy poniendo en practica mis conocimientos de `Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.<br/>
+>:pill: &nbsp;Ahora mismo estoy poniendo en practica mis conocimientos de:<br/>
+ `Angular` aplicado a un proyecto privado en desarrollo para el Estado Peruano.
 
 >:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
 
-  `JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA Macros`, `ZBrush`, `Unity`.
+`JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA Macros`, `ZBrush`, `Unity`.
 <br/><br/>
 
 >:pushpin: &nbsp;Gists
