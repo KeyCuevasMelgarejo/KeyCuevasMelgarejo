@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
-    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
+    <img alt="La etiqueta del contador de visitas está actualmente en mantenimiento" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
 
 >🌱 &nbsp; Últimos proyectos desarrollados:
