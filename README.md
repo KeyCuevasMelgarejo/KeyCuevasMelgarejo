@@ -9,15 +9,20 @@
     <img alt="La etiqueta del contador de visitas está actualmente en mantenimiento" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
 </p>
 
->🌱 &nbsp; Últimos proyectos desarrollados:
+>:card_index: &nbsp; Conocimientos consolidados bajo la modalidad de empleo formal:<br/>
+
+`JavaScript / TypeScript`, `Angular`, `Python`, `Java`, `Spring MVC`, `Thymeleaf`, `Visual Basic`, `VBA Macros`.
+<br/>
+
+>:microscope: &nbsp; Otros conocimientos adquiridos en formación:<br/>
+
+`Node / Express`, `C++`, `Visual C++`, `Visual C#`, `OpenGL`, `ZBrush`, `Unity`.
+<br/>
+
+>🌱 &nbsp; Algunos proyectos como sustento a [Otros conocimientos adquiridos en formación]:
 * &nbsp;[**MecaTyping**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para fomentar el interés y conocimiento de las tradiciones culturales peruanas en la literatura a través de la práctica mecanográfica y posterior invitación a la lectura de obras nacionales en Castellano, Quechua y Aymara.<br/>
 * &nbsp;[**MusicMe**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) aplicación web para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
 * &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
-
->:microscope: &nbsp; Sientete libre de consultarme acerca de:<br/>
-
-`JavaScript / TypeScript`, `Angular`, `Thymeleaf`, `Node / Express`, `Python`, `Spring MVC`, `Java`, `C++`, `Visual C++`, `Visual C#`, `Visual Basic`, `OpenGL`, `VBA Macros`, `ZBrush`, `Unity`.
-<br/><br/>
 
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
