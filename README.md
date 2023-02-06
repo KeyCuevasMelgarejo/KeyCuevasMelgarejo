@@ -14,14 +14,14 @@
 `JavaScript / TypeScript`, `Angular`, `Python`, `Java`, `Spring MVC`, `Thymeleaf`, `Visual Basic`, `VBA Macros`.
 <br/>
 
->Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados bajo la modalidad de empleo formal], te invito a comunicarte directamente con mi persona. Muchos de estos proyectos tienen un Repositorio Privado:
+Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados bajo la modalidad de empleo formal], te invito a comunicarte directamente con mi persona. Muchos de estos proyectos tienen un Repositorio Privado:
 
 >:microscope: &nbsp; Otros conocimientos adquiridos en formación:<br/>
 
 `Node / Express`, `C++`, `Visual C++`, `Visual C#`, `OpenGL`, `ZBrush`, `Unity`.
 <br/>
 
->Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned]:
+Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned]:
 
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
