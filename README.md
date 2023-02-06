@@ -14,15 +14,14 @@
 `JavaScript / TypeScript`, `Angular`, `Python`, `Java`, `Spring MVC`, `Thymeleaf`, `Visual Basic`, `VBA Macros`.
 <br/>
 
+>Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados bajo la modalidad de empleo formal], te invito a comunicarte directamente con mi persona. Muchos de estos proyectos tienen un Repositorio Privado:
+
 >:microscope: &nbsp; Otros conocimientos adquiridos en formación:<br/>
 
 `Node / Express`, `C++`, `Visual C++`, `Visual C#`, `OpenGL`, `ZBrush`, `Unity`.
 <br/>
 
->🌱 &nbsp; Algunos proyectos como sustento a [Otros conocimientos adquiridos en formación]:
-* &nbsp;[**MecaTyping**](https://github.com/KeyCuevasMelgarejo/MECA-TYPING_) para fomentar el interés y conocimiento de las tradiciones culturales peruanas en la literatura a través de la práctica mecanográfica y posterior invitación a la lectura de obras nacionales en Castellano, Quechua y Aymara.<br/>
-* &nbsp;[**MusicMe**](https://github.com/KeyCuevasMelgarejo/MUSICME___PREVIEW) aplicación web para mejorar del proceso de composición musical y colaborativo en tiempo real.<br/>
-* &nbsp;[**WoodApp**](https://github.com/KeyCuevasMelgarejo/WOOD-APP___PREVIEW) app móvil para la identificacion de tipo de maderas haciendo uso de machine learning.<br/>
+>Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned]:
 
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
