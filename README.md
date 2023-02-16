@@ -11,7 +11,7 @@
 
 >:card_index: &nbsp; Conocimientos consolidados bajo la modalidad de empleo formal:<br/>
 
-`JavaScript / TypeScript`, `Angular`, `Python`, `Java`, `Spring MVC`, `Thymeleaf`, `Visual Basic`.
+`JavaScript / TypeScript`, `Angular`, `Python`, `Java`, `Spring MVC`, `Thymeleaf`, `Visual Basic .Net`.
 <br/>
 
 Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados bajo la modalidad de empleo formal], te invito a comunicarte directamente con mi persona. Muchos de estos proyectos tienen un Repositorio Privado:
