@@ -18,7 +18,7 @@ Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados baj
 
 >:microscope: &nbsp; Otros conocimientos adquiridos en formación:<br/>
 
-`Node / Express`, `C++`, `Visual C++`, `Visual C#`, `OpenGL`, `ZBrush`, `Unity`, `VBA Macros`.
+`Node / Express`, `C++`, `Visual C++ .Net`, `Visual C# .Net`, `OpenGL`, `ZBrush`, `Unity`, `VBA Macros`.
 <br/>
 
 Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned] o [Fijado]:
