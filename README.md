@@ -21,7 +21,7 @@ Si deseas ver los proyectos realizados acerca de [Conocimientos consolidados baj
 `Node / Express`, `C++`, `Visual C++`, `Visual C#`, `OpenGL`, `ZBrush`, `Unity`, `VBA Macros`.
 <br/>
 
-Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned]:
+Si deseas ver los proyectos realizados acerca de [Otros conocimientos adquiridos en formación], te invito a revisar la sección de abajo [Pinned] o [Fijado]:
 
 >:pushpin: &nbsp;Gists
 (https://gist.github.com/KeyCuevasMelgarejo)
